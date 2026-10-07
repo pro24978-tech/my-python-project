@@ -1,0 +1,24 @@
+# Служебное
+.git/
+.gitignore
+.dockerignore
+.idea/
+.vscode/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Локальная БД
+app.db
+instance/
+
+# Тестовые файлы
+tweet.json
+test.jpg
+check.py
+
+# Кеши
+.pytest_cache/
+.mypy_cache/
